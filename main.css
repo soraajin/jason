@@ -338,7 +338,7 @@
 .avatar-2e8lTP:hover.clickable-31pE3P:hover {
   filter: drop-shadow(0 0 8px);
   color: var(--darkplus-sec);
-  transform: scale(1.2) rotate(360deg); 
+  transform: scale(1.2); 
   transition: width 0.5s ease, height 0.5s ease, transform 0.5s ease;
 }
 .membersGroup-2eiWxl {
